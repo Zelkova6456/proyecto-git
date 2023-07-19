@@ -25,3 +25,5 @@ la pestaña de pull requests, donde el creador del repositorio
 o los colaboradores pueden decidir si aceptar o denegar la solicitud.
 Adicionalmente, pueden revisar el código y enviar comentarios a modo de 
 retroalimentación.
+
+Ademas podemos agregar un comnado de SSH KEYGEN, esto nos genera una clave publica y privada.
