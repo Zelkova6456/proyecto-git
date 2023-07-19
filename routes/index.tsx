@@ -42,7 +42,7 @@ export default function Home(props: PageProps<HomeProps>) {
           </h1>
           <p class="my-4">
             Qué conceptos cubrí en el curso con Sicos Informática -{" "}
-            <b>Nico Gonzalez</b>
+            <b>Nicolas Gonzalez</b>
           </p>
         </div>
       </div>
