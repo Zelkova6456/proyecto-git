@@ -1,9 +1,7 @@
 
 
 ---
-
 titulo: CLI
-
 descripcion: Command Line Interface
 ---
 
