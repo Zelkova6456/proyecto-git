@@ -1,3 +1,9 @@
+---
+titulo: Terminal
+descripcion: Manejo a traves de la terminal
+---
+
+
 Para comenzar con el manejo a través de la terminal, podemos utilizar las 
 herramientas integradas en nuestro propio sistema. 
 Hay que destacar que no todas las CLI tienen las mismas funcionalidades y 
