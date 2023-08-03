@@ -4,5 +4,5 @@ jobs:
   hola:
     runs-on: ubuntu-latest
     steps:
-     -name: paso-1
-      run: echo "Hola mundo!"
+      - name: paso-1
+        run: echo "Hola mundo!"
